@@ -1,0 +1,36 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "布萊德的學習網站"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = false
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = "https://www.facebook.com/brad.lee.tw"
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "https://bradleetw.github.io/"
+  linkedin = "https://www.linkedin.com/in/brad-lee-77224542"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-light-green"
+  featured_image = "/images/beautiful-cold-fog-547115.jpg"
+  recent_posts_number = 2
+
+  [frontmatter]
+  date = ["date","publishDate", "lastmod"]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]

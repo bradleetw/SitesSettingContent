@@ -2,7 +2,6 @@
 title: English
 menu:
   main:
-  sidebar:
 weight: -265
 slug: englishnews
 ---

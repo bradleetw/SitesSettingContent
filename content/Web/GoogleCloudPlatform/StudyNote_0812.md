@@ -1,26 +1,16 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Google Cloud Platform 學習心得"
+date: 2018-08-12T11:00:56+08:00
+expiryDate: 2018-08-12T11:00:56+08:00
+publishDate:
 draft: true
-tags:
-    -
-categories:
-    -
+tags: []
+categories: []
 cover:
-    image: /images/yourimagebackgroundfilename.png
-    caption:
+    image: /images/yourimagebackgroundfilename.jpg
     style: wide
 description: ""
 authors: ["bradlee"]
-slug:
-toc: false
-comments: false
-emoji: false
-flowchart: false
-viz: false
-mathjax: false
-msc: false
-wave: false
 ---
 ## WHAT——是什么？目的是什么？做什么工作？
 
@@ -35,3 +25,5 @@ wave: false
 ## HOW——怎么做？如何提高效率？如何实施？方法怎样？
 
 ## HOW MUCH——多少？做到什么程度？数量如何？质量水平如何？费用产出如何？
+
+https://console.cloud.google.com/home/dashboard?project=mystical-binder-206804

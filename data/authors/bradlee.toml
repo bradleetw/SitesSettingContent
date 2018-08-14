@@ -1,0 +1,12 @@
+id = "bradlee"
+
+[email]
+username = "brad.lee.tw"
+host = "outlook.com"
+
+[name]
+display = "Brad Lee"
+
+[social]
+twitter = "BradLeeTW"
+facebook = "brad.lee.tw"

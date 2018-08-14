@@ -1,26 +1,14 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "A Simple Guide to the Versions of the Inception Network"
+date: 2018-08-12T10:23:34+08:00
+expiryDate: 2018-08-12T10:23:34+08:00
+publishDate:
 draft: true
-tags:
-    -
-categories:
-    -
-cover:
-    image: /images/yourimagebackgroundfilename.png
-    caption:
-    style: wide
+tags: []
+categories: []
+featured_image: "/images/yourimagebackgroundfilename.jpg"
 description: ""
 authors: ["bradlee"]
-slug:
-toc: false
-comments: false
-emoji: false
-flowchart: false
-viz: false
-mathjax: false
-msc: false
-wave: false
 ---
 ## WHAT——是什么？目的是什么？做什么工作？
 
@@ -35,3 +23,6 @@ wave: false
 ## HOW——怎么做？如何提高效率？如何实施？方法怎样？
 
 ## HOW MUCH——多少？做到什么程度？数量如何？质量水平如何？费用产出如何？
+
+
+https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202

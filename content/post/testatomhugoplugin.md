@@ -6,7 +6,7 @@ tags: []
 categories: []
 featured_image: "/images/yourimagebackgroundfilename.jpg"
 description: ""
-author: "Brad Lee"
+authors: ["bradlee"]
 ---
 ## WHAT——是什么？目的是什么？做什么工作？
 

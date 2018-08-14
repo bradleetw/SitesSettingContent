@@ -1,1 +1,1 @@
-hugo --theme=ananke --baseUrl="https://bradleetw.github.io/"
+hugo --theme=engimo --baseUrl="https://bradleetw.github.io/"

@@ -1,11 +1,10 @@
 ---
-title: "Useful URL"
+title: Useful URL
 date: 2018-08-14T11:37:18+08:00
-draft: false
 description: ""
-authors: ["bradlee"]
 slug: usefulurl
-menu: sidebar
+menu:
+    sidebar:
 weight: -50
 toc: true
 emoji: true

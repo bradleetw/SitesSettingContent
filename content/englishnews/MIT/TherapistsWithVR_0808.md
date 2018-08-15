@@ -1,5 +1,5 @@
 ---
-title: "Therapists are augmenting eating-disorder treatment with virtual-reality headsets"
+title: "[MIT] Therapists are augmenting eating-disorder treatment with virtual-reality headsets"
 date: 2018-08-09T12:41:59+08:00
 draft: false
 tags: ["MIT"]

@@ -2,7 +2,7 @@
 [about]
 title = "布萊德"                            # default: .Site.Title
 description = "抽空看看 Julia"                      # default: .Site.Params.info.description
-logo = "/images/brainstorm.png"             # default: "/images/logo.png"
+logo = "/images/test.png"             # default: "/images/logo.png"
 
 # Recent Posts Widget config
 [recent_posts]

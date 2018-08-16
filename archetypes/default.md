@@ -10,7 +10,6 @@ cover:
     image: /images/yourimagebackgroundfilename.png
     caption:
     style: wide
-description: ""
 authors: ["bradlee"]
 slug:
 toc: false

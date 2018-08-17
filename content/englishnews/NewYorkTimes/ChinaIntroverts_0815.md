@@ -61,7 +61,7 @@ Matti is a "[**stereotypical**](#stereotypical)<a name="stereotypical_"></a> Fin
 > have my room cleaned.
 請人打掃房間.
 
-- <a name="#invaded"></a>**invaded**:(a) 被侵犯的; **invade**:(v) [ɪn'veɪd] 侵入; 侵擾 [back](#invaded_)
+- <a name="invaded"></a>**invaded**:(a) 被侵犯的; **invade**:(v) [ɪn'veɪd] 侵入; 侵擾 [back](#invaded_)
 
 > What right does he have to to **invade** my privacy?
 他有什么权利侵犯我的隐私？

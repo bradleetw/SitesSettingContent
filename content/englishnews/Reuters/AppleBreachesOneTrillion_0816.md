@@ -91,6 +91,12 @@ Apple's stock has risen over 30 percent in the past year, fueled by [**optimism*
 
 > Our goals need other people to help us **along the way**. 在我们向着目标前进的途中需要别人的帮助.
 
+> **Along the way**, the map of my life got better.
+一路走來, 我的人生地圖越來越精彩.
+
+> I prefer to take my time and enjoy the scenery **along the way**.
+我喜歡花時間享受沿途的風景.
+
 - <a name="conduct"></a>**conduct**:(v) 實施; 執行 [back](#conduct_)
 
 > It was the first time that I had **conducted** business in Brazil. 那是我第一次在巴西做生意.
@@ -115,6 +121,9 @@ Apple's stock has risen over 30 percent in the past year, fueled by [**optimism*
 - <a name="mushroomed"></a>**mushroom**:(v) ['mʌʃruːm; -rʊm] 快速生長; 迅速增長 [back](#mushroomed_)
 
 > New housing developments **mushroomed** on the edge of town. 城郊新住宅区雨后春笋般地冒出来.
+
+> Its debt **mashroomed**, and global banks pulled back from advising the company last year.
+去年, 他的債務激增, 全球銀行也退出了該公司的顧問業務.
 
 ---
 - <a name="optimism"></a>**optimism**:(n) ['ɒptɪmɪz(ə)m] 樂觀主義; 樂觀 [back](#optimism_)
@@ -145,8 +154,14 @@ Apple's stock has risen over 30 percent in the past year, fueled by [**optimism*
 > Do you plan to go for debt or **equity** financing?
 你是打算进行债务融资还是股权融资？
 
+> Officials worry the weak **equity** market couldn't absorb such large share offerings.
+官員們擔心疲弱的股市無法承受如此大規模的股票發行.
+
 - <a name="asset"></a>**asset**:(n) ['æset] 資產 [back](#asset_)
 
 > the value of a company's **assets**. 公司的资产价值.
 
 > a corporation with $9 billion in **assets**. 一家拥有90亿美元资产的公司
+
+> Instead of buying when prices recovered, he cut costs and sold **assets**.
+他沒有在價格回升時買進, 而是削減成本並出售資產.

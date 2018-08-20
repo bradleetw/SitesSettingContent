@@ -5,103 +5,77 @@ draft: true
 tags: ["WashingtonPost"]
 categories: ["English"]
 cover:
-    image: /images/yourimagebackgroundfilename.jpg
-    style: wide
+image: /images/yourimagebackgroundfilename.jpg
+style: wide
 description: ""
 authors: ["bradlee"]
 ---
-Even the light of 200 birthday candles couldn't pierce the gloom of "Wuthering Heights." But the fire that burned within Emily Brontë roars across the centuries.
+Even the light of 200 birthday candles couldn't [**pierce**](#pierce)<a name="pierce_"></a> the [**gloom**](#gloom)<a name="gloom_"></a> of "!Wuthering Heights." But the fire that burned within Emily Brontë [**roars**](#roars)<a name="roars_"></a> across the centuries.
 
-. **pierce**:
+The younger sister of Charlotte, Emily was born on July 30, 1818, in Yorkshire, England. Together with her siblings, Emily [**stoked**](#stoked)<a name="stoked_"></a> a [**furnace**](#furnace)<a name="furnace_"></a> of creativity unique in the [**annals**](#annals)<a name="annals_"></a> of literary history. the children wrote fantastical stories together, [**spinning**](#spinning)<a name="spinning_"></a> imaginary worlds of romantic adventure.
 
-. **gloom**:
+Only [**poetic**](#poetic)<a name="poetic_"></a> [**remnants**](#remnants)<a name="remnants_"></a> of that [**juvenilia**](#juvenilia)<a name="juvenilia_"></a> survive today, but during their brief lives, each of the Brontë sisters managed to publish at least one novel, and none of them generates more [**cultish**](#cultish)<a name="cultish_"></a> [**devotion**](#devotion)<a name="devotion_"></a> than "Wuthering Heights." Yes, Charlotte's "Jane Eyre" may have more readers, but hte [**tale**](#tale)<a name="tale_"></a> of young Catherine and Heathcliff remains the most [**feverish**](#feverish)<a name="feverish_"></a> love story in English literature.
 
-. **Wuthering Heights.**:
+Emily, after all, is the woman who wrote, "No coward soul is mine / No [**trembler**](#trembler)<a name="trembler_"></a> in the world's [**storm-troubled**](#storm-troubled)<a name="storm-troubled_"></a> sphere." And the characters she created are just as fearless, just as [**audacious**](#audacious)<a name="audacious_"></a> in their [**disregard**](#disregard)<a name="disregard_"></a> for what is expected, what is reasonable, what makes sense. The wonder of "Wuthering Heights" is its exponential emotions: "such [**anguish**](#anguish)<a name="anguish_"></a> in the [**gush**](#gush)<a name="gush_"></a> of grief!"
 
-. **roars**:
+We know Catherine is [**dommed**](#dommed)<a name="dommed_"></a> and Heathcliff is "a [**fierce**](#fierce)<a name="fierce_"></a>, [**pitiless**](#pitiless)<a name="pitiless_"></a>, wolfish man," but how [**subversive**](#subversive)<a name="subversive_"></a>, how [**bewitching**](#bewitching)<a name="bewitching_"></a> such [**unbridled**](#unbridled)<a name="unbridled_"></a> passion feels in our [**self-conscious**](#self-conscious)<a name="self-conscious_"></a> age of [**transactional**](#transactional)<a name="transactional_"></a> [**hookups**](#hookups)<a name="hookups_"></a> and [**enlightened**](#enlightened)<a name="enlightened_"></a> unions. No dating app would ever bring these two lovers together; no marriage algorithm would ever predict a happy future. And yet. ... "He's more myself than I am," Catherine cries. "Whatever our souls are made of, his and mine are the same."
 
----
-The younger sister of Charlotte, Emily was born on July 30, 1818, in Yorkshire, England. Together with her siblings, Emily stoked a furnace of creativity unique in the annals of literary history. the children wrote fantastical stories together, spinning imaginary worlds of romantic adventure.
+- <a name="pierce"></a>**pierce**:()	[back](#pierce_)
 
-. **siblings**:
+- <a name="gloom"></a>**gloom**:()	[back](#gloom_)
 
-. **stoked**:
+- <a name="roars"></a>**roars**:()	[back](#roars_)
 
-. **furnace**:
+- <a name="stoked"></a>**stoked**:()	[back](#stoked_)
 
-. **annals**:
+- <a name="furnace"></a>**furnace**:()	[back](#furnace_)
 
-. **fantastical**:
+- <a name="annals"></a>**annals**:()	[back](#annals_)
 
-. **spinning**:
+- <a name="spinning"></a>**spinning**:()	[back](#spinning_)
 
----
-Only poetic remnants of that juvenilia survive today, but during their brief lives, each of the Brontë sisters managed to publish at least one novel, and none of them generates more cultish devotion than "Wuthering Heights." Yes, Charlotte's "Jane Eyre" may have more readers, but hte tale of young Catherine and Heathcliff remains the most feverish love story in English literature.
+- <a name="poetic"></a>**poetic**:()	[back](#poetic_)
 
-. **poetic**:
+- <a name="remnants"></a>**remnants**:()	[back](#remnants_)
 
-. **remnants**:
+- <a name="juvenilia"></a>**juvenilia**:()	[back](#juvenilia_)
 
-. **juvenilia**:
+- <a name="cultish"></a>**cultish**:()	[back](#cultish_)
 
-. **survive**:
+- <a name="devotion"></a>**devotion**:()	[back](#devotion_)
 
-. **brief**:
+- <a name="tale"></a>**tale**:()	[back](#tale_)
 
-. **novel**:
+- <a name="feverish"></a>**feverish**:()	[back](#feverish_)
 
-. **cultish**:
+- <a name="trembler"></a>**trembler**:()	[back](#trembler_)
 
-. **devotion**:
+- <a name="storm-troubled"></a>**storm-troubled**:()	[back](#storm-troubled_)
 
-. **tale**:
+- <a name="audacious"></a>**audacious**:()	[back](#audacious_)
 
-. **feverish**:
+- <a name="disregard"></a>**disregard**:()	[back](#disregard_)
 
-. **literature**:
+- <a name="anguish"></a>**anguish**:()	[back](#anguish_)
 
----
-Emily, after all, is the woman who wrote, "No coward soul is mine / No trembler in the world's storm-troubled sphere." And the characters she created are just as fearless, just as audacious in their disregard for what is expected, what is reasonable, what makes sense. The wonder of "Wuthering Heights" is its exponential emotions: "such anguish in the gush of grief!"
+- <a name="gush"></a>**gush**:()	[back](#gush_)
 
-. **coward**:
+- <a name="dommed"></a>**dommed**:()	[back](#dommed_)
 
-. **trembler**:
+- <a name="fierce"></a>**fierce**:()	[back](#fierce_)
 
-. **storm-troubled**:
+- <a name="pitiless"></a>**pitiless**:()	[back](#pitiless_)
 
-. **audacious**:
+- <a name="subversive"></a>**subversive**:()	[back](#subversive_)
 
-. **disregard**:
+- <a name="bewitching"></a>**bewitching**:()	[back](#bewitching_)
 
-. **exponential**:
+- <a name="unbridled"></a>**unbridled**:()	[back](#unbridled_)
 
-. **anguish**:
+- <a name="self-conscious"></a>**self-conscious**:()	[back](#self-conscious_)
 
-. **gush**:
+- <a name="transactional"></a>**transactional**:()	[back](#transactional_)
 
-. **grief**:
+- <a name="hookups"></a>**hookups**:()	[back](#hookups_)
 
----
-We know Catherine is dommed and Heathcliff is "a fierce, pitiless, wolfish man," but how subversive, how bewitching such unbridled passion feels in our self-conscious age of transactional hookups and enlightened unions. No dating app would ever bring these two lovers together; no marriage algorithm would ever predict a happy future. And yet. ... "He's more myself than I am," Catherine cries. "Whatever our souls are made of, his and mine are the same."
-
-. **dommed**:
-
-. **fierce**:
-
-. **pitiless**:
-
-. **wolfish**:
-
-. **subversive**:
-
-. **bewitching**:
-
-. **unbridled**:
-
-. **passion**:
-
-. **self-conscious**:
-
-. **transactional hookup**:
-
-. **enlighted union**:
+- <a name="enlightened"></a>**enlightened**:()	[back](#enlightened_)

@@ -29,13 +29,16 @@ Military leaders have said repeatedly that modern [**warfare**](#warfare)<a name
 ---
 - <a name="movetoward"></a>**move toward v-ing**: **醞釀**, 準備, 傾向於幹一件事   [back](#movetoward_)
 
-- <a name="fulfilling"></a>**fulfill**:(v) [ful'fil] 實現	[back](#fulfilling_)
+- <a name="fulfilling"></a>**fulfil**:(v) [ful'fil] 履行, 執行, 實現	[back](#fulfilling_)
 
-> I know that I have a purpose in this world and I live to **fulfill** this purpose.
+> I know that I have a purpose in this world and I live to **fulfil** this purpose.
 我知道我来到这个世上是有目标的，我活着就是为了实现这个目标.
 
-> You should **fulfill** your promise once your made it.
+> You should **fulfil** your promise once your made it.
 做人要言出必行.
+
+> Brad is someone who **fulfils** his commitments.
+Brad是一個履行承諾的人.
 
 - <a name="inwhat"></a>**in what**: in + what 引導的從句, 這裡可將 in what 理解成 which, 描述前面的 Space Force. 這種 in what 用法一般用來暗示將要發生的某件事會成為一個歷史性的事件.   [back](#inwhat_)
 
@@ -54,6 +57,9 @@ Military leaders have said repeatedly that modern [**warfare**](#warfare)<a name
 现在我们可以对作业制定计划，从而在将来的一个时间点执行操作，或者按照计划定期执行.
 
 - <a name="layout"></a>**lay out**:(v) 闡述, 講解, to lay out ideas, principles, or plans means to explain or present them clearly, for example in a document or a meeting.     [back](#layout_)
+
+> Maxwell listened closely as Johnson **laid out** his plan.
+Maxwell 仔細聽著 Johnson 講解他的計畫.
 
 > She **laid out** her plans for the new house.
 
@@ -75,12 +81,18 @@ Military leaders have said repeatedly that modern [**warfare**](#warfare)<a name
 公平原则要求我们应该平等地对待所有的候选人.
 
 ---
-- <a name="calls"></a>**calls**(n): 呼籲; 號招  [back](#calls_)
+- <a name="calls"></a>**a call for sth**(n): 對某事的呼籲; 號招  [back](#calls_)
 
-- <a name="reluctance"></a>**reluctance**:(n) [rɪ'lʌkt(ə)ns] 阻力; 磁阻; 勉強; 不情願	[back](#reluctance_)
+- <a name="reluctance"></a>**reluctance**:(n) [rɪ'lʌkt(ə)ns] 勉強; 不情願, unwillingness; 阻力; 磁阻; do sth with reluctance; sb. is reluctant to do sth.	[back](#reluctance_)
+
+> "In the beginning, there was a little **reluctance** - people were emotional," he said.
+"最初人們都有些許的不情願-人們都是情緒化的,"他說
 
 > The Netherlands, Slovakia and Austria have also expressed **reluctance** on the issue.
 荷兰、斯洛伐克和奥地利在这个问题上也有不情愿的表示.
+
+> He admits he's wrong with **reluctance**. / He is reluctant to admit he's wrong.
+他萬般不情願地承認他的錯誤.
 
 - <a name="amid"></a>**amid**:(prep.) [ə'mɪd] 在其中, 在期間; while noisy, busy, or confused events are happening - used in wiriting or news reports	[back](#amid_)
 
@@ -102,6 +114,9 @@ Military leaders have said repeatedly that modern [**warfare**](#warfare)<a name
 
 > They are in a better position to recognize and address an emerging threat in time than a centralized **bureaucracy**.
 比起集中式官僚机构来，他们在识别和处理突发威胁方面处于一个更有利的位置.
+
+> I had to deal with the university's **bureaucracy** when I was applying for financial aid.
+申請經濟援助的時候, 我不得不應對這所大學裡的官僚主義.
 
 - <a name="strip"></a>**strip sb of sth**:(v) [strɪp] 剝奪, 剝去, to take away something important from someone as a punishment, for example their title, property, or power	[back](#strip_)
 

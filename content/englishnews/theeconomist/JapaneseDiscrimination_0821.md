@@ -22,7 +22,7 @@ Doctoring has long been a male [**bastion**](#bastion)<a name="bastion_"></a>. B
 
 All this [**embarrasses**](#embarrasses)<a name="embarrasses_"></a> a government that has promised to make women "shine", its [**condescending**](#condescending)<a name="condescending_"></a> [**catchphrase**](#catchphrase)<a name="catchphrase_"></a> for female [**empowerment**](#empowerment)<a name="empowerment_"></a>. The policy seems based on the need for more workers rather than on [**genuine**](#genuine)<a name="genuine_"></a> concern for women. Shinzo Abe, the prime minister, says he wants to bring millions more women into the workforce to [**make up**](#makeup)<a name="makeup_"></a> for a labour [**shortfall**](#shortfall)<a name="shortfall_"></a> caused by its [**ageing**](#ageing)<a name="ageing_"></a> and [**declining**](#declining)<a name="declining_"></a> population.
 
-In the filed of politics, the record under Mr Abe's [**premiership**](#premiership)<a name="premiership_"></a> is [**lamentable**](#lamentable)<a name="lamentable_"></a>. Just two members of his [**20-strong**](#strong)<a name="strong_"></a> [**cabinet**](#cabinet)<a name="cabinet_"></a> are women, including Seiko Noda, in charge of women's empowerment. Ms Noda, who makes little secret of her ambition to [**dethrone**](#dethrone)<a name="dethrone_"></a> Mr Abe in a leadership [**contest**](#contest)<a name="contest_"></a> next month, has just published a book called "Grab the Future", her [**manifesto**](#manifesto)<a name="manifesto_"></a> for pulling Japan into line with "global standards". She has almost no chance of winning.
+In the filed of politics, the record under Mr Abe's [**premiership**](#premiership)<a name="premiership_"></a> is [**lamentable**](#lamentable)<a name="lamentable_"></a>. Just two members of his [**20-strong**](#strong)<a name="strong_"></a> [**cabinet**](#cabinet)<a name="cabinet_"></a> are women, including Seiko Noda, in charge of women's empowerment. Ms Noda, who makes little secret of her ambition to [**dethrone**](#dethrone)<a name="dethrone_"></a> Mr Abe in a leadership [**contest**](#contest)<a name="contest_"></a> next month, has just published a book called "Grab the Future", her [**manifesto**](#manifesto)<a name="manifesto_"></a> for [**pulling** Japan **into line with**](#pullsthintolinewith)<a name="pullsthintolinewith_"></a> "global standards". She has almost no chance of winning.
 
 [Original post.](https://www.economist.com/asia/2018/08/11/test-doctoring-to-keep-japanese-women-out-of-medical-school)
 
@@ -37,8 +37,11 @@ In the filed of politics, the record under Mr Abe's [**premiership**](#premiersh
 
 - <a name="demolishing"></a>**demolish**:(v) [dɪ'mɒlɪʃ] 推翻; 駁倒, to prove that an idea or opinion is completely wrong	[back](#demolishing_)
 
-> Hi **demolished** my argument in minutes.
+> He **demolished** my argument in minutes.
 他几分钟内就把我的论点驳倒了.
+
+> Crews began **demolishing** the four-story structure Thursday and are continuing the work Friday.
+施工隊從週四開始拆除這棟四層建築, 並將在週五持續作業.
 
 - <a name="prestigious"></a>**prestigious**:(a) [pre'stɪdʒəs] 有名望的; 想有聲望的, admired as one of the best and most important	[back](#prestigious_)
 
@@ -87,6 +90,9 @@ Reese 自己也承认缺乏必要的经验.
 > These clubs are the last **bastions** of male privilege.
 这些俱乐部是男人特权的最后堡垒
 
+> "For some, their last **bastion** of power is their power over women, and those people don't want to concede that territory," she said.
+“對於某些人來說, 他們權利最後的堡壘就是他們對女人的權利, 而這些人不想放棄這片領地." 他說.
+
 - <a name="rife"></a>**rife**:(a) [raɪf] 普遍存在的(不良或令人討厭的事物), if something bad or unpleasant is rife, it is very common	[back](#rife_)
 
 > Violent crime is **rife** in our inner cities.
@@ -99,12 +105,15 @@ Reese 自己也承认缺乏必要的经验.
 > Elaine has the **stamina** and the determination to succeed.
 Elaine 具有成功所需的毅力和决心.
 
+> The administrator's fervor and **stamina** elevated his profile significantly.
+該官員的熱情和忍耐力極大地提升了他的形象.
+
 - <a name="loyalty"></a>**loyalty**:(n) ['lɒɪəltɪ] 忠誠, the quality of remaining faithful to your friends, principles, country etc.	[back](#loyalty_)
 
 > Elizabeth undersood her husband's **loyalty** to his sister.
 Elizabeth 理解丈夫对他姐姐的一片忠心.
 
-- <a name="prized"></a>**prized**:(a) 被看作最有價值的, extremely important or valuable to someone	[back](#prized_)
+- <a name="prized"></a>**prized**:(a) [praɪzd] 被看作最有價值的, extremely important or valuable to someone	[back](#prized_)
 
 > The child held the bag as tightly as if it were her most **prized** possession.
 那孩子紧紧抱住那个包，似乎那是她最宝贵的财产
@@ -121,6 +130,10 @@ Elizabeth 理解丈夫对他姐姐的一片忠心.
 Hutter 教授的态度极为傲慢.
 
 > Asking about the divorce might have made his firend feel worse by reminding him of it, and expressing concern could have come across as **condescending**.
+询问关于离婚的事可能会让朋友想起这件事而感到难过，而表示关切也有可能被视为幸灾乐祸.
+
+> This is a **condescending** view because it underestimates the basic decency of the vast majority.
+這種想法是高高在上的, 他低估了大部分人的道德觀.
 
 - <a name="catchphrase"></a>**catchphrase**:(n) ['kætʃfreiz] 標語, 警句, a short well-known pharse made popular by an entertainer or politician, so that people think of that person when they hear it.	[back](#catchphrase_)
 
@@ -192,3 +205,11 @@ Hutter 教授的态度极为傲慢.
 
 > The Tories are due to publish their **manifesto** tomorrow.
 保守党将于明天发表他们的宣言.
+
+- <a name="pullsthintolinewith"></a>**pull/bring** sth **into line with**: 讓某物與...接軌, 對接 [back](#pullsthintolinewith_)
+
+> My aim is to **bring** rises **into line with** inflation over the next four years.
+我的目標是在未來四年內, 將漲幅與通貨膨脹水平持平.
+
+> Those who have a plan alreay will have a year to **bring** it **into line with** the framework.
+那些已有計劃的人將有一年的時間把他們的計劃與既有框架對接.

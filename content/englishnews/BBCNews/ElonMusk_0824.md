@@ -38,6 +38,9 @@ ___
 > her **mercurial** wit.
 她的机智.
 
+> There are a lot of high stakes and a lot of uncertainty because Trump is **mercurial**.
+由於 Trump 是反復無常的, 因此存在很多高風險和很多不確定性.
+
 - <a name="excelled"></a>**excel**:(v) [ɪk'sel; ek-] 優於, 擅長, to do something very well, or much better than most people.	[back](#excelled_)
 
 > Rick has always **excelled** at foreign languages.
@@ -53,6 +56,9 @@ Rick 一向擅长外语.
 > Redfern **stunned** the crowd with a last-minute goal.
 Redfern 在最后一分钟进球，使观众很是震惊.
 
+> Russell's family said in a statement that they were **stunned** and heartbroken.
+Russell 的家人在一份聲明中表示, 他們大為震驚, 傷心欲絕.
+
 - <a name="premium"></a>**premium**:(n) ['priːmɪəm] 溢價, 額外費用, an additional amount of money, above a standar rate or amount.	[back](#premium_)
 
 > Consumers are prepared to pay a **premium** for organically grown vegetables.
@@ -62,6 +68,9 @@ Redfern 在最后一分钟进球，使观众很是震惊.
 
 > Then came the **bombshell**: the factory was to close down.
 接着传来了令人震惊的消息: 工厂要关闭了.
+
+> As for the final **bombshell**, more on that later.
+至於最後的重磅炸彈, 稍後帶來更多相關報導.
 
 ---
 - <a name="turns_out"></a>**turn out**:(phrasal v) 結果為, if something turns out a particular way, it happens in that way or has the result or degree of success indicated.	[back](#turns_out_)
@@ -87,6 +96,9 @@ Redfern 在最后一分钟进球，使观众很是震惊.
 > My knowledge of history is a little **shaky**.
 我的历史知识有点靠不住.
 
+> His command is too spotty, his results are too inconsistent, his confidence is too **shaky**.
+他的指令零碎殘缺, 他的業績忽上忽下, 他的自信搖搖欲墜.
+
 - <a name="accused"></a>**accused**:(n) [ə'kjuːzd] 被告, the person or group of people who have been officially accused of a crime or offence in a court of law. 	[back](#accused_)
 
 > The **accused** has the right of defense.
@@ -109,6 +121,12 @@ Redfern 在最后一分钟进球，使观众很是震惊.
 
 > Revealing confidential information to a rival company could **land** you **in** serious trouble with your boss.
 向竞争对手泄露公司秘密的话，你的老板不会轻饶了你.
+
+> I hope you realize that this investigation could **land us in** prison.
+我希望你意識到這次調查可能讓我們入獄.
+
+> Failure in the final exam will **land him in** trouble.
+期末考試沒考過會搞他惹上麻煩.
 
 - <a name="jail"></a>**jail**:(n) [dʒeɪl] 監牢, a place where criminals are kept as part of their punishment, or where people who have been charged with a crime are kept before they are judged in law court. 	[back](#jail_)
 

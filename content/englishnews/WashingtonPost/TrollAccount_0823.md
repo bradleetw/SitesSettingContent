@@ -61,10 +61,16 @@ The report highlights how [**data breaches**](#breaches)<a name="breaches_"></a>
 > Police have launched a **campaign** to crack down on drug dealers.
 警方发起了一场严厉打击毒贩的运动
 
-- <a name="heated_up"></a>**heated up**:(phrasal v) 升溫, when a situation *heats up*, things start to happen much more quickly and with increased interest and excitement among the people involved.	[back](#heated_up_)
+- <a name="heated_up"></a>**heat up**:(phrasal v) 加劇, 升溫, when a situation *heats up*, things start to happen much more quickly and with increased interest and excitement among the people involved.	[back](#heated_up_)
 
 > Then in the last couple of years, the movement for democracy began to **heat up**.
 于是在过去几年里，民主运动开始升温.
+
+> Pipes expand as they **heat up**.
+管子受熱就會膨脹.
+
+> The action really begins to **heat up**.
+劇情真正開始緊張.
 
 - <a name="bristled"></a>**bristle with sth**:(phrasal v) ['brɪs(ə)l] 充滿, 充斥著, to have a lot of something, or be full of something.	[back](#bristled_)
 
@@ -93,7 +99,10 @@ The report highlights how [**data breaches**](#breaches)<a name="breaches_"></a>
 他动不动就大肆抨击工会.
 
 > "I'll help you **bash** them in the media," he said.
-“我会帮助你在媒体上痛击他们。” 他说。
+“我会帮助你在媒体上痛击他们.” 他说.
+
+> For Trump, of course, **bashing** the press is a sport akin to professional wrestling.
+當然, 對 Trump 來說, 抨擊媒體是和職業摔跤類似的運動.
 
 - <a name="Democratic"></a>**Democratic**:() [demə'krætɪk] 民主黨的	[back](#Democratic_)
 
@@ -133,7 +142,10 @@ The report highlights how [**data breaches**](#breaches)<a name="breaches_"></a>
 - <a name="indictment"></a>**indictment**:() [ɪn'daɪtm(ə)nt] 控告, the act of officially charging someone with a criminal offence law.	[back](#indictment_)
 
 > This led to his **indictment** on allegations of conspiracy.
-这件事最终使他被控犯有共谋罪
+这件事最终使他被控犯有共谋罪.
+
+> Brown said Tuesday that the **indictment** was unsurprising and appropriate.
+Brown 在週二表示指控是情理之中, 恰如其分.
 
 - <a name="fraudulently"></a>**fraudulently**:(adv) ['frɔdjuləntli] 欺騙地, in a dishonest and fraudulent manner.	[back](#fraudulently_)
 
@@ -168,11 +180,13 @@ The report highlights how [**data breaches**](#breaches)<a name="breaches_"></a>
 
 - <a name="breaches"></a>**data breach**:(n) [briːtʃ] 數據外洩	[back](#breaches_)
 
----
 > Verizon's recent **data breach** investigation shows 76% of hacks are caused by weak or stolen passwords.
 Verizon最近发布的数据泄露调查显示，76%的黑客入侵是帐户密码太弱或被窃造成的
 
+> On Friday an armored vehicle **breached** the front door.
+週五一輛武器載具突破了前門.
 
+---
 - <a name="fuel"></a>**fuel**:(v) [fjʊəl] 助長, 惡化, to make something, especially something *bad*, increase or become stronger.	[back](#fuel_)
 
 > His words **fuelled** her ander still more.

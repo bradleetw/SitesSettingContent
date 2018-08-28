@@ -20,9 +20,12 @@ msc: false
 wave: false
 ---
 ## AWK ——是什么？目的是什么？做什么工作？
-AWK 是一種程式語言, 主要針對文字檔案處理或者是 Shell script 處理:
+AWK 是一種程式語言, 主要針對文字檔案處理或者是 Shell script 處理, 依據
+
+
+
 1. 文字檔案處理: 將一個或多個文檔當作輸入, 根據你要找尋的文字, 執行你要的動作, 例如: 替代, 統計, 然後再將結果傳到 Standard Output ('$1') 或者檔案.
-    例子: 讀取 csv file, 統計相關欄位資料, 產生妳想要的資料.
+    例子: 讀取 csv file, 統計相關欄位資料, 產生想要的資料.
 2. Shell script處理: 透過 Standard Input ('&0'), 或者經由 Pipeline 接收前一個命令執行完傳到 Standard Output ('&1') 當作輸入資料, 執行你要的動作, 然後再將結果傳到 Standard Output ('$1') 或者檔案.
     例子: '$> ll | awk '{ if(substr($1, 1, 1) == "-") print $9 " is a file." }' ' 將 ll 命令的結果傳到 awk program, 讀取資料完後, 只打印出檔案的名稱.
 

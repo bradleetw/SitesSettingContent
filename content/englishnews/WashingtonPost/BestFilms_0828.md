@@ -52,10 +52,16 @@ Japanese anime director Hayao Miyazaki seems unable to make anything but [**mast
 > From at least the Song Dynasty onward, Chinese scholar's rocks were an important object of Chinese material culture and aesthetic **connoiseurship**.
 自宋朝以来, 甚或更早之前, 文人石一直是中国物质文化与美学鉴赏中不可或缺的重要元素.
 
+> As its name suggests, the page is meant to be more about taste than price - a chance to show **connoisseuship**.
+顧名思義, 這個頁面更多的是關於品味而不是價格 - 它是一個展示鑒賞力的機會.
+
 - <a name="veneration"></a>**veneration**:(n) [venə'reɪʃ(ə)n] 尊敬; 崇拜; a feeling of profound respect for someone or something.	[back](#veneration_)
 
 > This statue is an object of religious **veneration**.
 这座塑像是宗教崇拜的对象.
+
+> A morality that included both pacifism and a **veneration** of the natural world.
+一個包含了和平主義和對自然主義的崇拜的道德標準.
 
 - <a name="despite"></a>**despite**:(prep.) [dɪ'spaɪt] 儘管, 不管, used to say that something happens or is true even though something else might have prevented it.	[back](#despite_)
 
@@ -86,6 +92,9 @@ Japanese anime director Hayao Miyazaki seems unable to make anything but [**mast
 
 > The pity is that you are not a **prophet**.
 可惜你不能未卜先知.
+
+> To a new mother, a woman with a child a few months older than yours is a **prophet**.
+對於一位新媽媽來說, 一位女性的孩子如果比自己孩子大上幾個月, 這位女性就像是他的先知.
 
 - <a name="genuinely"></a>**genuinely**:(adv) ['dʒenjuinli] 真誠地, Genuine refers to things such as emotions that are real and not pretended.	[back](#genuinely_)
 
@@ -136,10 +145,13 @@ Japanese anime director Hayao Miyazaki seems unable to make anything but [**mast
 > He received a medal for his **heroism**.
 他由于英勇而获得一枚奖章.
 
-- <a name="whimsy"></a>**whimsy**:(n) ['wɪmzɪ] 古怪想法(篇好笑的) a way of thinking, behaving, or doing something that is unusual, strange, and often amusing.	[back](#whimsy_)
+- <a name="whimsy"></a>**whimsy**:(n) ['wɪmzɪ] 異想天開, 古怪想法(篇好笑的) a way of thinking, behaving, or doing something that is unusual, strange, and often amusing.	[back](#whimsy_)
 
 > Americans have a strong taste for slapstick in various forms, and substitute riposte and banter for irony or **whimsy**, which they tend not to understand.
 美国人对各种形式的闹剧非常感兴趣，用机敏的回答和玩笑来代替他们所不懂的讽刺和诙谐.
+
+> The film combines **whimsy** and tragedy in equal measure.
+這部電影同等程度上結合了奇思妙想和悲劇色彩.
 
 - <a name="fantasy"></a>**fantasy**:(n) ['fæntəsɪ; -zɪ] 幻想, an exciting and unusual experience or situation you imagine happening to you, but which will probably never happen.	[back](#fantasy_)
 

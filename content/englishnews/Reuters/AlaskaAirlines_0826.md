@@ -61,10 +61,16 @@ The FBI is leading the [**probe**](#probe)<a name="probe_"></a>, which also incl
 > Not many actors do their won **stunts**.
 不是很多演员亲自表演特技动作.
 
+> The 47-year-old actor joked that at this point in his life, "kneeling is a **stunt** for me."
+這位47歲的演員開玩笑說, 到了人生的這個階段, "連下跪對我來說都是一種特技了"
+
 - <a name="sparsely"></a>**sparsely**:(adv) ['spa:sli] 稀疏地, 貧乏地	[back](#sparsely_)
 
 > The northern part of the city used to be **sparsely** populated, but has now become a cultural centre.
 城北过去很冷落, 现在成了文化区.
+
+> He owns two properties in the deep, **sparsely** populated countryside where bears and other wildlife roam wild.
+他在幽深且人因稀少的鄉下擁有著兩處地產, 熊以及其他野生動物在那裡自由地遊蕩著.
 
 - <a name="populated"></a>**populate**:(v) [ˈpɑːpjuleɪt] 居住於, if an area is populated by a particular group of people, they lieve there.	[back](#populated_)
 
@@ -99,6 +105,9 @@ Rob 听到她死去的消息悲痛欲绝.
 > All the fighters landed safely on the airport after the military **maneuver**.
 在军事演习后，所有战斗机都安全降落在机场上.
 
+> Stunt pilots perform different **maneuvers** each show, which more than 60 shows across 30 sites in the U.S. and Canada this year.
+特技飛行員們在每一場航展上表演著不同的機動動作, 今年在美國和加拿大的30個場地上會舉辦超過60場航展.
+
 ---
 - <a name="disappoint"></a>**disappoint**:(v) [dɪsə'pɒɪnt] 使失望, to make someone feel unhappy because something they hoped for did not happen or was not as good as they expected.	[back](#disappoint_)
 
@@ -110,6 +119,9 @@ Rob 听到她死去的消息悲痛欲绝.
 
 > Police **probed** claims that he had sold drugs.
 警方就有人称他贩卖毒品一事进行了调查.
+
+> Mr. Strzok was part of both the Clinton investigation and the ongoing Russia **probe**.
+Strzok 先生參與了對 Clinton 的調查以及正在進行的 Trump 通俄調查.
 
 - <a name="thorough"></a>**thorough**:(a) ['θʌrə] 徹底的, including every possible detail.	[back](#thorough_)
 

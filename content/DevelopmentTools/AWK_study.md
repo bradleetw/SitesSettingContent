@@ -3,6 +3,7 @@ title: "AWK_Study"
 date: 2018-08-19T16:24:52+08:00
 draft: true
 tags:
+    - awk
 categories:
 cover:
     image: /images/yourimagebackgroundfilename.png
@@ -19,27 +20,57 @@ mathjax: false
 msc: false
 wave: false
 ---
-## AWK ——是什么？目的是什么？做什么工作？
-AWK 是一種程式語言, 主要針對文字檔案處理或者是 Shell script 處理, 依據
+## AWK
+AWK 是一種程式語言, 針對有固定格式的文字檔案或是命令列執行結果進行處理, 可統計, 然後依據其結果來做顯示, 或將結果存入檔案, 或傳輸到"標準輸出".
 
+## 為什麼用 AWK
+若是要對很多有相同格式的文字檔案進行修改, 更新, 或是統計某些文字內容, 可用 AWK. 而且其 script 的語法借鑒了 C, 所以較容易上手.
+很多人在談 AWK 時也都提到 sed, 就初步的了解, sed 是針對 stream text 做處理, 功能比 AWK 弱些, 但我猜是這兩個定位的不同. 之後會再花個時間紀錄一下 sed 的使用方法.
 
+在人工智能及大數據的需求影響下, 很多語言也都提供能讀取固定格式的像 csv 的文字檔案, 進行統計, 然後畫出漂亮有重點的圖, 這樣的需求 AWK 就較不適用, 雖然他也可以, 但沒有像 package management 的功能, 導致一些很多高手完成的有用好用的功能無法容易導入.
 
-1. 文字檔案處理: 將一個或多個文檔當作輸入, 根據你要找尋的文字, 執行你要的動作, 例如: 替代, 統計, 然後再將結果傳到 Standard Output ('$1') 或者檔案.
-    例子: 讀取 csv file, 統計相關欄位資料, 產生想要的資料.
-2. Shell script處理: 透過 Standard Input ('&0'), 或者經由 Pipeline 接收前一個命令執行完傳到 Standard Output ('&1') 當作輸入資料, 執行你要的動作, 然後再將結果傳到 Standard Output ('$1') 或者檔案.
-    例子: '$> ll | awk '{ if(substr($1, 1, 1) == "-") print $9 " is a file." }' ' 將 ll 命令的結果傳到 awk program, 讀取資料完後, 只打印出檔案的名稱.
+所以用 AWK 的時機, 就偏向私人大量文檔的修改或統計時來採用.
 
-## WHY——为什么？为什么要这么做？理由何在？原因是什么？
+## 安裝
+一般 linux-based 系統都有 AWK 的身影, 理論上不用額外安裝, 像我的 macOS 就內附了. 還有另一個 GAWK, 提供的功能較多, 這個是要額外下載, 但我還沒試.
 
-## WHERE——何处？在哪里做？从哪里入手？
+## 如何執行 awk script file
+1. `$ awk '{print $0}' filename.txt`
 
-## WHO——谁？由谁来承担？谁来完成？谁负责？
+    中間`''`放的就是 awk script, 後面就是接著文字檔案, 後面還可以接著更多的檔名, 後面的檔名數量其上限要再花時間深入暸解.[to do item ]
 
-## WHEN——何时？什么时间完成？什么时机最适宜？
+2. `$ awk -f scriptfile.awk filename.txt`
 
-## HOW——怎么做？如何提高效率？如何实施？方法怎样？
+    將 awk script 寫到檔案中, 其檔名不用加上 `.awk`, 那只是為了個人方便管理. 使用的時候在 awk script file 前面加上 `-f`.
 
-## HOW MUCH——多少？做到什么程度？数量如何？质量水平如何？费用产出如何？
+3. 將 awk script file 直接變成可執行的檔案
+
+    awk scipt file 也可以變成命令, 其步驟:
+
+    - 在 awk script file 中的首行加入 `#! /usr/bin/awk -f`.
+    - 加入可執行的權限, `$ chmod +x awk_script_file`.
+
+4. `$ ls -al | awk '{ if(substr($1, 1, 1) == "d") print $NF " is direcory." }'`
+
+    透過 pipeline operator 將前面命令的成功輸出當作輸入.
+
+## 如何編寫 awk script
+除了前面提到的 awk script 語法是借鑑 C, 剩下的概念也不難理解.
+
+1. 主要分成 3 區塊:
+
+    - 開始區塊:
+        `BEGIN { action }`
+
+    - 中間區塊:
+        `pattern { action }`
+
+        - pattern:
+
+        - action:
+        
+    - 結束區塊:
+        `END { action }`
 
 - [GNU AWK 官方使用手冊.](http://www.gnu.org/software/gawk/manual/gawk.html#toc-Getting-Started-with-awk)
 

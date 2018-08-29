@@ -42,11 +42,19 @@ The researchers said that a possible explanation for their results was that peop
 > I think we have to **pull the plug** on this thing.
 我觉得我们应该停止这一切.
 
+> The television company **pulled the plug** on the series after only five episodes.
+這部電視劇只撥出了5集就被電視公司停播了.
+
+> Having lost three times in a row, Noel was ready to **pull the plug** on his running career.
+連續三次之後, Noel 已經準備放棄自己的跑步生涯.
+
 ---
-- <a name="humanoid"></a>**humanoid**:(a) ['hjuːmənɒɪd] 像人的, having a human shape and human qualities.	[back](#humanoid_)
+- <a name="humanoid"></a>**humanoid**:(a) ['hjuːmənɒɪd] 像人的, having a human shape and human qualities. (n) 人形機器人	[back](#humanoid_)
 
 > The robot was **humanoid** in appearance.
 那个机器人具有人类的外形.
+
+> In one video, Atlas, the **humanoid** robot, goes for a jog in a grassy yard.
 
 - <a name="shut_off"></a>**shut (sth.) off**:(phrasal V) 切斷; 關掉, if you shut off something such as an engine or an electrical item, you turn it off to stop if from working. [back](#shut_off_)
 
@@ -71,6 +79,8 @@ The researchers said that a possible explanation for their results was that peop
 
 > **pleading** eyes.
 乞求的眼神
+
+> A man **pleaded** to be let into a locked police station then lunged with a knife at officers inside.
 
 - <a name="conducted"></a>**conduct**:(v) ['kɒndʌkt] 實施, 執行, to carry out a particular activity or process, especially in order to get information or prove facts.	[back](#conducted_)
 
@@ -121,6 +131,9 @@ Caldwell 恳求捐款.
 > The computer and the human mind have different but **complementary** abilities.
 电脑与人脑各不相同, 却又互为补充.
 
+> The painter uses bold **complementary** colors, pitting red against green or purple against yellow.
+畫家用大膽的互補色, 紅色和綠色, 或紫色和黃色相映成趣.
+
 - <a name="personality"></a>**personality**:(n) [pɜːsə'nælɪtɪ] 個性, 性格, someone's character, especially the way they behave towards other people.	[back](#personality_)
 
 > Despite their different **personalities**, they became the best of firends.
@@ -130,6 +143,9 @@ Caldwell 恳求捐款.
 
 > Creativity is a human **trait**.
 创造力是人类的一种特性.
+
+> The longing for homeland is a common enough **trait**.
+对祖国的渴望是一个普遍存在的人类特性.
 
 - <a name="exhibit"></a>**exhibit**:(v) [ɪg'zɪbɪt; eg-] 顯示, 展示(品質, 情感或能力), to clearly show a particular quality, emotion, or ability.	[back](#exhibit_)
 

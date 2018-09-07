@@ -37,6 +37,9 @@ Councillor Alison Evison, the president of Cosla, said while the primary [**aim 
 > Often, the camps were not very **sanitary**.
 营地里常常不太卫生.
 
+> Cholera thrives in poor **sanitary** conditions.
+霍亂在惡劣的衛生條件下肆虐.
+
 ---
 - <a name="scheme"></a>**scheme**:(n) [skiːm] 計劃; 方案;(政府或其他組織的/造福他人的), an official plan that is intended to help people in some way, for example by providing education to training.	[back](#scheme_)
 
@@ -84,6 +87,9 @@ Councillor Alison Evison, the president of Cosla, said while the primary [**aim 
 > the **scourge** of war.
 战争的祸害.
 
+> We must eradicate the **scourge** of gun violence from our communities.
+我們必須從我們的社區根除槍枝暴力的禍害.
+
 - scourge:(v) 使遭收苦難, 蹂躪, to cause a lot of harm or suffering to a place or group of people.
 
 - <a name="hygiene"></a>**hygiene**:(n) ['haɪdʒiːn] 衛生, 保健, the practice of keeping yourself and the things around you clean in order to prevent diseases.	[back](#hygiene_)
@@ -117,6 +123,9 @@ Councillor Alison Evison, the president of Cosla, said while the primary [**aim 
 > You have to joiin the party at **grassroots** level from what I understand.
 据我的了解，你得由基层组织入党.
 
+> "Nazis understand **grassroots** organizing better than the Democrats," Bee joked.
+Bee 打趣道: "納粹比社會民主黨更加理解基層組織建設."
+
 - grassroots culture
 
 - <a name="revealed"></a>**reveal**:(v) [rɪ'viːl] 透露, to make known something that was previously secret or unknown.	[back](#revealed_)
@@ -141,6 +150,12 @@ Councillor Alison Evison, the president of Cosla, said while the primary [**aim 
 > If they don't manage their time well they **miss out on** things.
 如果他们没有处理好自己的时间，他们就会错过一些事情.
 
+> I'd hate to **miss out on** the theatricality of a wedding.
+我不希望錯過婚禮上的盛大場面.
+
+> The leaders **miss out on** one important aspect.
+領導們遺漏了一個重要方面.
+
 - <a name="stigma"></a>**stigma**:(n) ['stɪgmə] 恥辱; 羞恥; a strong feeling in society that being in a particular situation or having a particular illness is something to be ashamed of.	[back](#stigma_)
 
 > There is a social **stigma** attached to single parenthood.
@@ -150,3 +165,6 @@ Councillor Alison Evison, the president of Cosla, said while the primary [**aim 
 
 > The **stigma** of alcoholism makes it difficult to treat.
 酗酒的恶名令其很难治愈.
+
+> Gently she encouraged me, reminding me this is how to end the **stigma**.
+他溫柔地鼓勵我, 提醒我這是結束恥辱的方式.

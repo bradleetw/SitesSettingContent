@@ -42,13 +42,20 @@ Type `]` key first to enter package REPL-mode:
 
 You also could manage package under `julia>` prompt.
 
-1. `julia> using Pkg`: loading `Pkg` module.
+1. `julia> using Pkg`: loading `Pkg` module. `julia> import Pkg`?
+
 
 2. `julia> Pkg.status()`
 
 3. `julia> Pkg.add("packageName")`
 
 4. `julia> Pkg.update()`
+
+5. `julia> instantiate` ?
+
+6. `julia> activate someProjectName`? like python virtual env
+
+7. `julia> precompile`
 
 
 ---

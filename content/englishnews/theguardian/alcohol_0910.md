@@ -42,17 +42,23 @@ The report is right that many people should drink less than they do. Perhaps the
 > a **gigantic** skyscraper.
 摩天大樓.
 
+> Who wants to board a **gigantic** floating condominium?
+誰想登上一座巨大的水上公寓？
+
 ---
 - <a name="unequivocal"></a>**unequivocal**:() [ʌnɪ'kwɪvək(ə)l] 明確的, 毫不含糊的, completely clear and without any possibility of doubt.	[back](#unequivocal_)
 
 > His answer was an **unequivocal** 'No.' 他的回答是毫不含糊的“不”.
 
 ---
-- <a name="authoritative"></a>**authoritative**:() [ɔː'θɒrɪtətɪv; -,teɪtɪv] 權威的, 可信的 	[back](#authoritative_)
+- <a name="authoritative"></a>**authoritative**:(a) [ɔː'θɒrɪtətɪv; -,teɪtɪv] 權威的, 可信的 	[back](#authoritative_)
 
 -1. an authoritative book, account etc is respected because the person who wrote it knows a lot about the subject.
 
 > the most **authoritative** work on English surnames. 有关英语姓氏的最权威著作.
+
+> He showcased his military savvy and impressed Americans as an **authoritative** voice on foreign policy.
+他展示了自己的軍事頭腦, 讓美國人印象深刻, 並視他為外交政策的權威代言人.
 
 -2. behaving or speaking in a confident determined way that makes people respect and obey you.
 
@@ -68,6 +74,14 @@ The report is right that many people should drink less than they do. Perhaps the
 
 > The collapse of the company **came as a shock** to us all.
 公司的倒闭让我们所有人都感到震惊.
+
+come as: 以...身份 (出現)
+
+> At one level this should **come as** no surprise.
+某種層面上這不應該讓人感到驚訝.
+
+> New ideas **come as** a result of building upon previous ones.
+新的想法來於以往經驗知識的積累.
 
 ---
 - <a name="shock"></a>**shock**:(n) [ʃɒk] 震驚	[back](#shock_)
@@ -147,6 +161,9 @@ the shock of (doing) sth
 the practice of not having something you enjoy, especially alcohol or sex, usually for reasons of religion or health.
 
 > Such periods of **abstinence** were regularly punctuated  with periods of alcohol abuse. 这样的戒酒期总是有规律地被酒精滥用时期打断.
+
+> "Treatment available in a correctional facility will help more people than just **abstinence**," she said.
+他說: "在勞教所提供的治療比戒絕更能幫助更多的人."
 
 ---
 - <a name="outweighs"></a>**outweighs**:(v) [aʊt'weɪ] 比...重要, 比...有價值	[back](#outweighs_)
@@ -228,6 +245,9 @@ very unusual or surprising. 惊人的；令人震惊的
 Paddy 的话在孩子们身上产生了惊人的效果.
 
 > a **startling** discovery. 令人震惊的发现.
+
+> You're bound to witness some **startling** moments if you let them put their own art onstage.
+如果你讓他們把自己的藝術幫上舞台, 你一定會見證一些驚人的時刻.
 
 it is startling to do sth
 

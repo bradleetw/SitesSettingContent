@@ -1,24 +1,13 @@
 ---
-title: "AWK_Study"
+title: "[Shell Script] AWK 的介紹"
 date: 2018-08-19T16:24:52+08:00
-draft: true
+draft: false
 tags:
     - awk
 categories:
-cover:
-    image: /images/yourimagebackgroundfilename.png
-    caption:
-    style: wide
+    - Shell Script
 authors: ["bradlee"]
-slug:
 toc: true
-comments: false
-emoji: false
-flowchart: false
-viz: false
-mathjax: false
-msc: false
-wave: false
 ---
 ## AWK
 AWK 是一種程式語言, 針對有固定格式的文字檔案或是命令列執行結果進行處理, 可統計, 然後依據其結果來做顯示, 或將結果存入檔案, 或傳輸到"標準輸出".
@@ -54,6 +43,7 @@ AWK 可用來對很多有相同格式的文字檔案進行修改, 更新, 或是
 
     透過 pipeline operator 將前面命令的成功輸出當作輸入.
 
+---
 ## 如何編寫 awk script
 除了前面提到的 awk script 語法是借鑑 C, 剩下的概念也不難理解.
 
@@ -81,13 +71,14 @@ awk 根據 3 類區塊來決定執行順序, 開始(被執行次數: 1 次) -> �
 ---
 其實一個 awk script 是由一個或多個的 `pattern { action }` 組合而成, `BEGIN` 和 `END` 只是比較特別.
 
+---
 ### 讀取資料
 讀取輸入資料: awk 自動讀取所傳入的文字檔案內容或是經由標準輸入傳入的內容, 這是我認爲 awk 好用的地方, 自動讀取資料, 並且將每個欄位自動分開.
 
-#### NF
-當在命令列執行 awk script 後頭接上檔名, awk 會自行開檔, 並依序讀取每行資料, 每讀取*一行*, awk 就當作是一筆 Record , 接著執行 script 中的每一個中間區塊, 並將讀到的該筆 Record 中的每個欄位依序放在 `$1`, `$2`, `$3`, ...這些欄位裡, 而 `$NF` 是表示最後一個欄位 (`NF` 紀錄著該行欄位的數量).
+#### Record & Field
+當在命令列執行 awk script 後頭接上檔名, awk 會自行開檔, 並依序讀取每行資料, 每讀取*一行*, awk 就當作是一筆 Record , 接著執行 script 中的每一個中間區塊, 並將讀到的該筆 Record 中的每個欄位依序放在 `$1`, `$2`, `$3`, ...這些 Field (欄位)裡, 而 `$NF` 是表示最後一個欄位 (`NF` 紀錄著該行欄位的數量).
 
-#### FNR V.S. NR
+#### 當前已處理文字檔案的進度
 `FNR` 則記錄著 awk script 已經讀取當前文字檔案的 Record 次數, 其實想成 `中間區塊` 被執行的次數.
 
 因為 awk script 可以依序處理多個文字檔案, 所以當讀到下一個文字檔案時 `FNR` 又歸零重頭開始紀錄, 而 `NR` 則是將前面已經讀取不同文字檔案的 Record 數量累加起來.
@@ -96,14 +87,14 @@ awk 根據 3 類區塊來決定執行順序, 開始(被執行次數: 1 次) -> �
 
     { print FNR, $0 }
 
-#### RS
+#### 將多行的資料視為單一資料
 awk 預設是每一行就是一筆 Record, 但也可以改設成多行是一筆 Record. 如下:
 
 	BEGIN { RS = "" }
 
 利用 `RS` 這個變數紀錄著讀取輸入資料時如何判斷是一筆 Record , `"/n"` 是預設的判斷符號, 也就是一行就一筆 Record. 改成 RS = ""(空字串), 會使得 Record 之間是由一個或多個空行來分隔.
 
-#### FS
+#### 區隔不同欄位所用到的符號
  而 `" "` (空白符號) 是 awk 在讀取輸入資料時的預設欄位分割符號, 用 `FS` 變數記錄著. 假設你的輸入資料文檔是利用 `,` 來當分割符號, e.g. csv files, 只要有如下設定:
 
 	BEGIN { FS = "," }
@@ -120,13 +111,13 @@ awk 預設是每一行就是一筆 Record, 但也可以改設成多行是一筆 
 ### 資料的判斷統計:
 當 awk 對輸入資料依序讀取每筆 Record 時, 我們可以依據該 Record 中是否符合某種條件來決定做相對應的動作, 如統計.
 
-#### 篩選 Record
+---
+#### pattern { action }
 可以在每個 `中間區塊` , `pattern { action }`, 的 `pattern` 的欄位填入判斷式.
 
-##### 沒有 pattern
 當 `pattern` 沒有填, 則表示 True, 也就是該 `action` 一定執行.
 
-##### 特定欄位的判斷
+#### 依據欄位內容當判斷標準
 可以依據某個欄位是否大於等於小於一特定大小: `<`, `<=`, `==`, `!=`, `>`, `>=`
 
     $2 > 10 { print $1, $3 * $4 }
@@ -145,6 +136,7 @@ awk 預設是每一行就是一筆 Record, 但也可以改設成多行是一筆 
 
 第二欄位要在 20 和 5 這個區間才會列印該筆 Record.
 
+---
 #### 變數
 ##### 自定義變數
 變數不需要事先聲明就可以馬上使用. 預設 awk 會給該變數設為 0.
@@ -170,10 +162,12 @@ RS | 控制着输入行的记录分割符 | "\n"
 RSTART | 被函数 match 匹配的字符串的开始 |
 SUBSEP | 下标分割符 | "\034"
 
-##### 算術運算
+---
+#### 算術運算
 awk 提供: `+`, `-`, `*`, `/`, `%`, `^`. 也提供 `=`, `+=`, `-=`, `*=`, `/=`, `%=`, `^=`. 以及 `++`, `--`.
 
-##### 內建算式函數
+---
+#### 內建算式函數
 函數 | 返回值
 ---|---
 atan2(y,x) | y/x 的反正切值, 弧度制, 定义域从 −π 到 π
@@ -186,9 +180,11 @@ sin(x) | x 的正弦值, x 以弧度为单位.
 sqrt(x) | x 的方根
 srand(x) | 设置随机数种子, 如果省略 x, 则默认使用当天的时间
 
-#### 統計的模式
+---
+#### END { action }
 當所有的 Record 都掃過一遍時, 所需要的資料都已記錄下來, 接著就在 `END { action }` 的 action 做後續的計算輸出動作.
 
+---
 #### 流程控制語句
 和 C 的語法類似, 提供: If-Else, While, For, Do-While 等
 
@@ -231,8 +227,8 @@ next 使 awk 抓取下一個 Record, 然後從第一個 `中間區塊`繼續.
 
 在 `END 區塊` 中執行 `exit` 會導致程序終止, 而在其他的區塊裡, `exit` 會使得程序表現得好像所有的輸入資料都讀完了, 不會再有輸入資料被讀取, 接著就直接執行 `END 區塊`
 
+---
 #### 字串處理
-
 ##### 字串相加
 
     { names = names $1 " " }
@@ -280,7 +276,7 @@ fmt | $1 | printf(fmt, $1)
 %-10.3s | January | Jan_______ (`_` 表示空白)
 %%, 打印一个百分号 %, 不会有参数被吸收 | | %
 
-
+---
 #### 輸出到螢幕
 將結果打印到標準輸出, 也就是螢幕:
 
@@ -310,8 +306,9 @@ fmt | $1 | printf(fmt, $1)
 
 	$ awk -f someScript.awk data.txt | sort -t'\t' +1rn
 
-#### OFS, ORS
-這兩個變數是在使用 `print expression, expression, ...` 命令時用到的. 打印各個 expression, expression 之間由 OFS 分開, 由 ORS 終止.
+---
+#### 更改輸出時的換行符號, 分割欄位符號
+這兩個變數是在使用 `print expression, expression, ...` 命令時用到的. 打印各個 expression, expression 之間由 `OFS` 分開, 由 `ORS` 終止.
 
 `OFS` 預設的輸出欄位分割符號是`" "`, 而`ORS` 預設的輸出換行符號是`"\n"`.
 
@@ -332,13 +329,13 @@ fmt | $1 | printf(fmt, $1)
     Beth-4.00-0
     Dan-3.75-0
     Kathy-4.00-10
+---
+## 參考資料
 
+- GNU AWK 官方使用手冊: http://www.gnu.org/software/gawk/manual/gawk.html#toc-Getting-Started-with-awk
 
+- 簡單的介紹 sed & awk & grep 入門: https://www.cnblogs.com/moveofgod/p/3540575.html
 
-- [GNU AWK 官方使用手冊.](http://www.gnu.org/software/gawk/manual/gawk.html#toc-Getting-Started-with-awk)
+- 用一些例子介紹 sed & awk: http://dongweiming.github.io/sed_and_awk/#/
 
-- [簡單的介紹 sed & awk & grep 入門.](https://www.cnblogs.com/moveofgod/p/3540575.html)
-
-- [用一些例子介紹 sed & awk.](http://dongweiming.github.io/sed_and_awk/#/)
-
-- [Github 上一本介紹 awk programming 的中文翻譯.](https://github.com/wuzhouhui/awk)
+- Github 上一本介紹 awk programming 的中文翻譯: https://github.com/wuzhouhui/awk

@@ -14,7 +14,7 @@ authors: ["bradlee"]
 ---
 ## French [**baguette**](#baguette)<a name="baguette_"></a> faces [**pinch**](#pinch)<a name="pinch_"></a> from anti-salt lawmakers
 
-France's [**beloved**](#beloved)<a name="beloved_"></a> bread [**loaf**](#loaf)<a name="loaf_"></a>, the baguette, may be about to lose some of its [**bite**](#bite)<a name="bite_"></a>, with politicians looking into the health risks of [**additives**](#additives)<a name="additives_"></a> set to propose [**legislation**](#legislation)<a name="legislation_"></a> forcing [**bakers**](#bakers)<a name="bakers_"></a> and processed food makers more generally to [**slash**](#slash)<a name="slash_"></a> salt content.
+France's [**beloved**](#beloved)<a name="beloved_"></a> bread [**loaf**](#loaf)<a name="loaf_"></a>, the baguette, may be about to lose some of its [**bite**](#bite)<a name="bite_"></a>, with politicians [**looking into**](#lookinto)<a name="lookinto_"></a> the health risks of [**additives**](#additives)<a name="additives_"></a> set to propose [**legislation**](#legislation)<a name="legislation_"></a> forcing [**bakers**](#bakers)<a name="bakers_"></a> and processed food makers more generally to [**slash**](#slash)<a name="slash_"></a> salt content.
 
 After months of investigation and [**hearings**](#hearings)<a name="hearings_"></a>, a [**parliamentary**](#parliamentary)<a name="parliamentary_"></a> committee has come to the conclusion that [**voluntary**](#voluntary)<a name="voluntary_"></a> agreements on the reduction of high salt levels have not been [**respected**](#respected)<a name="respected_"></a> and that it is time to [**impose**](#impose)<a name="impose_"></a> healthier [**norms**](#norms)<a name="norms_"></a> via legislation.
 
@@ -34,6 +34,9 @@ Crouzet said the committee could propose a tax on salt like one already introduc
 - <a name="baguette"></a>**baguette**:(n) [bæ'get] 法國棍子麵包	[back](#baguette_)
 
 a long thin loaf of bread, made especially in France.
+
+> The sale of baked goods grew rapidly, the **baguette** in particular.
+烘培產品的銷量迅速增加, 法棍尤為突出.
 
 ---
 - <a name="pinch"></a>**pinch**:(n) [pɪn(t)ʃ] 捏	[back](#pinch_)
@@ -183,6 +186,15 @@ bite your lip (= because you are upset or not sure what to say)〔因为难过�
 > He wore boots that **bit into** the ice. 他穿了一双能卡住冰面的靴子.
 
 ---
+- <a name="lookinto"></a>**look into**:深入替檢查; 調查; 觀察 [back](#lookinto_)
+
+> They set up a working party to **look into** the issue.
+他們設立了一個工作小組來調查這件事.
+
+> The college principal promised to **look into** the matter.
+學院院長承諾調查這個問題.
+
+---
 - <a name="additives"></a>**additive**:(n) ['ædɪtɪv] 添加劑	[back](#additives_)
 
 a substance that is added to food to improve its taste, appearance etc.〔食品的〕添加剂，添加物
@@ -227,6 +239,9 @@ under new/existing/current etc legislation
 -1. to greatly reduce an amount, price etc - used especially in newspapers and advertising. 大幅度削减 〔数量、价格等；尤用于报纸和广告〕
 
 > The workforce has been **slashed** by 50%. 劳动力已削减了 50%.
+
+> Prices have been **slashed** by 50 percent!
+價格已經直降 50%!
 
 -2. to cut or try to cut something violently with a knife, sword etc. 〔用刀、剑等〕猛削，劈，砍
 
@@ -338,6 +353,9 @@ impose sth on sb
 -1. the usual or normal situation, way of doing something etc. 常态；标准；准则；规范
 
 > Joyce's style of writing was a striking departure from the literary **norm**. Joyce 的写作风格与传统的文学风格大相径庭。
+
+> Boys who default from gender **norms** of behaviour are deemed "sissies"; girls are "tomboys".
+與性別行為準則相違背的男孩被認為是"偽娘", 女孩是"假小子".
 
 be/become the norm
 
@@ -481,6 +499,9 @@ In everyday English, people usually say that something does not work rather than
 - <a name="binding"></a>**binding**:(a) ['baɪndɪŋ] 有約束力的	[back](#binding_)
 
 *a binding contract/promise/agreement etc*: a promise, agreement etc that must be obeyed. 具有约束力[必须履行]的合同/承诺/协议等
+
+> Once signed, these documents are legally **binding**.
+一但被簽署, 這些文件就具有法律約束力.
 
 - binding:(n)
 

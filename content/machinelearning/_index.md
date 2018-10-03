@@ -16,4 +16,16 @@ slug: machinelearning
 >
 > 書籍: [深入浅出强化学习：原理入门](https://item.jd.com/12261093.html)
 >
+
+### Visualization Package
+- [seaborn](https://seaborn.pydata.org/index.html)
+
+
+
+[dtreeviz -- Decision tree visualization](https://github.com/parrt/dtreeviz)
+
+http://course.fast.ai/index.html
+
+http://course.fast.ai/ml.html
+
 ---

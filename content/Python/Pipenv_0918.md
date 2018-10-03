@@ -175,6 +175,8 @@ pipenv is a packages dependency management of python.
 
 `$ pipenv run python xxx.py`: 利用該虛擬環境來執行 xxx.py, 可額外設定 `alias prp=’pipenv run python’`, prp xxx.py 就可直接執行
 
+`$ pipenv lock -r`: 產生 requirements.txt.
+
 `$ pipenv update --outdated`: Find out what’s changed upstream.
 
 `$ pipenv update`: Want to upgrade everything.

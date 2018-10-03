@@ -232,3 +232,13 @@ records = "*"
 1. 安裝 package 時間過久, 似乎是在處理 Pipfile.lock 時消耗太多時間 (目前我還沒有成功安裝一個 package), 開發者已經在處理此問題. 目前解決方法, `pipenv install packageName --skip-lock`, 省略 pipfile.lock 的步驟.
 
 2. 在預設建立開發環境時,  pipenv 會使用 python 3.7, 而目前 tensorflow 還無法相容於 python 3.7, https://github.com/pypa/pipenv/issues/2619.
+
+## Reference
+
+[Python environment with Pipenv, Jupyter, and EIN](https://matthewbilyeu.com/blog/python-environment-with-pipenv-jupyter-and-ein/)
+
+[使用pipenv管理你的项目](http://www.dongwm.com/archives/使用pipenv管理你的项目/),
+
+[pipenv source code](https://github.com/pypa/pipenv),
+
+[pipenv 官方網站](https://pipenv.readthedocs.io/en/latest/)

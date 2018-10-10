@@ -20,12 +20,14 @@ slug: machinelearning
 ### Visualization Package
 - [seaborn](https://seaborn.pydata.org/index.html)
 
-
+[Machine Learning for Visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab)
 
 [dtreeviz -- Decision tree visualization](https://github.com/parrt/dtreeviz)
 
 http://course.fast.ai/index.html
 
 http://course.fast.ai/ml.html
+
+
 
 ---

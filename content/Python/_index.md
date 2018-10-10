@@ -20,6 +20,5 @@ https://www.roytuts.com 這個網站有蠻多例子可學, 先看關於 Face det
 
 [28 Jupyter Notebook tips, tricks, and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
-[Python environment with Pipenv, Jupyter, and EIN](https://matthewbilyeu.com/blog/python-environment-with-pipenv-jupyter-and-ein/)
 
 ---

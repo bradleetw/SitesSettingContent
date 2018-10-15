@@ -8,4 +8,18 @@ weight: -270
 >
 > 就是做筆記 ...
 >
-> 1. 記得更新 julia 學習心得
+
+## 工作查詢
+
+>
+> LinkedIn
+>
+> Indeed: https://www.indeed.com
+>
+> SimplyHired: https://www.simplyhired.com
+>
+> Monster: https://angel.co/jobs
+>
+> AngelList: https://angel.co/jobs
+>
+> Glassdoor: https://www.glassdoor.com/index.htm

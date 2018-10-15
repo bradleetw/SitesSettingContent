@@ -5,6 +5,8 @@ menu:
 weight: -259
 slug: Python
 ---
+> $ pip install --upgrade packageName
+
 https://www.roytuts.com 這個網站有蠻多例子可學, 先看關於 Face detection 的例子, 裡頭有用到 openCV.
 
 [30 ESSENTIAL PYTHON TIPS AND TRICKS FOR PROGRAMMERS](http://www.techbeamers.com/essential-python-tips-tricks-programmers/?utm_campaign=weekly&utm_medium=email&utm_source=newsletter_mailer)
@@ -19,6 +21,7 @@ https://www.roytuts.com 這個網站有蠻多例子可學, 先看關於 Face det
 [[译]27个Jupyter Notebook小提示与技巧](https://www.jianshu.com/p/dacc6acba00b)
 
 [28 Jupyter Notebook tips, tricks, and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+
 
 
 ---

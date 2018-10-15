@@ -14,6 +14,8 @@ Julia 學習資源: https://lectures.quantecon.org/jl/index_learning_julia.html
 
 Julia 學習資源2: http://ucidatascienceinitiative.github.io/IntroToJulia/
 
+Julia machine learning 學習資源: ~/Projects/julia_study/MLCrashCourse
+
 Julia's tours: http://www.numerical-tours.com/julia/
 
 

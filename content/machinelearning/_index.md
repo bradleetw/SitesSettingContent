@@ -14,8 +14,6 @@ slug: machinelearning
 > Reinforcement Learning:
 > [Reinforcement Learning An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 >
-> 書籍: [深入浅出强化学习：原理入门](https://item.jd.com/12261093.html)
->
 
 ### Visualization Package
 - [seaborn](https://seaborn.pydata.org/index.html)
@@ -28,6 +26,14 @@ http://course.fast.ai/index.html
 
 http://course.fast.ai/ml.html
 
+## Free Study Resource
+- Data School, https://www.dataschool.io/start/, https://www.youtube.com/dataschool
 
+## Book
+- Book, [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
+
+- Book, [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C)
+
+- 書籍: [深入浅出强化学习：原理入门](https://item.jd.com/12261093.html)
 
 ---

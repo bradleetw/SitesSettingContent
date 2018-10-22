@@ -27,6 +27,9 @@ http://course.fast.ai/index.html
 http://course.fast.ai/ml.html
 
 ## Free Study Resource
+- Stanford - Machine Learn
+https://www.coursera.org/learn/machine-learning/home/week/1
+
 - Data School, https://www.dataschool.io/start/, https://www.youtube.com/dataschool
 
 - fast.ai: http://course.fast.ai

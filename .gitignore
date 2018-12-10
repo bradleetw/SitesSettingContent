@@ -1,2 +1,5 @@
 public/
 *_copy
+.favorites.json
+Peronal_Blog.code-workspace
+

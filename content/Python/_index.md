@@ -7,7 +7,9 @@ slug: Python
 ---
 > $ pip install --upgrade packageName
 
-http://pythontutor.com/ VISUALIZE CODE AND GET LIVE HELP, 透過圖像顯示可以容易了解 Python 中變數, 物件, 指標, list, tuple, dict, 等等, 其內部是如何操作 
+https://pep8.org/#naming-conventions
+
+http://pythontutor.com/ VISUALIZE CODE AND GET LIVE HELP, 透過圖像顯示可以容易了解 Python 中變數, 物件, 指標, list, tuple, dict, 等等, 其內部是如何操作
 
 https://www.roytuts.com 這個網站有蠻多例子可學, 先看關於 Face detection 的例子, 裡頭有用到 openCV.
 

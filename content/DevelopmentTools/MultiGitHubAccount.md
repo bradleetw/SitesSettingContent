@@ -29,11 +29,11 @@ toc: true
 利用 `ssh-keygen` 除了可以產生公鑰和私鑰之外, 呈現密鑰, 還可以管理 `/.ssh/known_hosts` - 一個記錄著你透過 ssh 方式登入過遠端服務器的列表檔案.
 
 #### Generate Key - `ssh-keygen`
-底下是常用的生成密鑰命令:
+底下是常用的生成密鑰命令, 執行成功後會在你設定的路徑(跟在 `-f` 之後)產生私鑰和公鑰(副檔名為 `.pub` )兩個檔案:
 ```
 ssh-keygen -t rsa -b 4096 -C "Developer Key Note" -f ~/.ssh/brad_github_id_rsa
 ```
-`-t`: ssh-keygen support 4 types: `dsa`, `ecdsa`, `ed25519`,and `rsa`. The default value is `rsa` type(SSH-2).
+`-t`: ssh-keygen support 4 types -- `dsa`, `ecdsa`, `ed25519`,and `rsa`. The default value is `rsa` type(SSH-2).
 ```
 ssh-keygen -t dsa
 ```
@@ -84,15 +84,15 @@ ssh-add ~/.ssh/id_rsa_personal
 
 #### List all of private key from agent
 ```
-ssh-add -l
+ssh-add -l -E md5
 ```
 
-#### Move out specific private key from agent
+#### Move out specific private key from ssh_agent
 ```
 ssh-add -d '~/.ssh/id_rsa_custom'
 ```
 
-#### Move out all of private key from agent
+#### Move out all of private key from ssh_agent
 ```
 ssh-add -D
 ```
@@ -105,10 +105,11 @@ ssh-add -D
 git config --global user.name "User Name"
 git config --global user.email "UserName@email.address"
 ```
-如果你的電腦環境對不同的遠端服務器(或者公司服務器)所記錄的帳號資料都相同, 可以用 global 來設定.
-這兩個欄位主要會在 commit log 中顯示的名字和郵件.
+如果你的電腦環境對不同的遠端服務器(或者公司服務器)所記錄的帳號資料都相同, 可以設定成全域值.
 
-不過一般來說對公司的環境, 應該是會用公司的郵件資料. 所以建議這兩個欄位是放在 locale, 也就是根據不同的倉庫對應到個別的 user name/ e-mail. 若要同時可以存在對同一個遠端服務器的多個帳號, 也是要用 locale user name/ email.
+這兩個欄位主要是會在 commit log 中顯示的名字和郵件.
+
+不過一般來說對公司的環境, 應該是會用公司的郵件資料. 所以建議這兩個欄位是放在 locale, 也就是根據不同的倉庫對應到個別的 user name/ e-mail. 若要同時可以存在對同一個遠端服務器的多個帳號, 也建議用 locale user name/ email.
 
 在個別的倉庫目錄下設定各自的 user name/ email:
 ```
@@ -118,9 +119,9 @@ git config --local user.email "UserName@email.address"
 `--local` 其實可以省略.
 
 ### Git clone new repository
-如果環境設定中將 `user.name` and `user.emial` 從 global 設定中移除, 那麼在每一次 `git clone git@github.com:someone/some.git` 完之後, 要記得 set user.name and user.email locally.
+如果環境設定中將 `user.name` and `user.emial` 從 global 設定中移除, 那麼在每一次 `git clone git@github.com:someone/some.git` 完之後, 會比較麻煩要額外設定 user.name and user.email locally.
 
-只要在 `.zshrc` 中添入如下 alias, 之後只要下 `gitclone git@github.com:someone/some.git`, 就會一起設定 user.name and user.email.
+所以只要在 `.zshrc` 中添入如下 alias, 之後只要執行 `gitclone git@github.com:someone/some.git`, 就會一起設定 user.name and user.email.
 ```
 alias gitclone='git clone --config user.name="your name" --config user.email="youremail@address.com" $@'
 ```
@@ -158,6 +159,8 @@ Hi accountNameOfRemoteServer! You've successfully authenticated, but GitHub does
 
 若失敗就會出現 `Permission denied (publickey).`.
 
+原則上若是單一帳戶的使用場景, 這些設定其實就可以了.
+
 # How to enable second git account in the same mac
 1. 利用 `ssh-keygen` 建立另一組新的密鑰.
 2. 將新的公鑰上傳至遠端服務器.
@@ -168,21 +171,22 @@ Hi accountNameOfRemoteServer! You've successfully authenticated, but GitHub does
 設定成功後, 表示你可以用不同帳號下載或 clone, 但不一定可以上傳, 原因就是遠端服務器是否有開上傳權限給你.
 
 ## Push failed
-原先因為我對 GitHub 的一知半解, 已為所有在 GitHub 上的資料, 除了可以任意下載(包含別人), 還可以任意上傳. 上傳的權限是要原倉庫的作者有開放給使用者, 才可以上傳. 就是因為不清楚, 以為前面提的五個步驟設定完成就可以用不同帳號下載上傳, 然後就一直出現以下的 error message.
+原先因為我對 GitHub 的一知半解, 以為所有在 GitHub 上的資料, 除了可以任意下載, 還可以任意上傳. 這樣的觀點只對一半, 若是下載上傳的倉庫都是你自己的單一帳號, 那是沒問題的. 但若是別人的帳號, 上傳的權限就要原倉庫擁有者開放給你, 之後才可以上傳. 就是因為不清楚, 以為前面提的五個步驟設定完成就可以用不同帳號下載上傳, 然後就一直出現以下的 error message.
 ```
 ERROR: Permission to userA/Scripts.git denied to UserB.
 fatal: 无法读取远程仓库。
 
 请确认您有正确的访问权限并且仓库存在。
 ```
+GitHub Help reference:
 https://help.github.com/articles/error-permission-to-user-repo-denied-to-user-other-repo/
 
 ## Set an organization repository
-參考以下鏈結設定合作開發專案:
+參考以下 GitHub Help 設定合作開發專案:
 
 https://help.github.com/articles/adding-outside-collaborators-to-repositories-in-your-organization/
 
-設定成功後, 在透過 invite other user 來將第二個帳號加入同一個開發專案. 第二個帳號只要接受了邀請, 並可以 push commit.
+設定成功後, 在透過 invite other user 來將第二個帳號加入同一個開發專案. 第二個帳號只要接受了邀請, 就可以 push commit.
 
 # Reference
 https://blog.alantsai.net/posts/2015/09/use-ssh-in-windows-for-github
